@@ -8,6 +8,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
