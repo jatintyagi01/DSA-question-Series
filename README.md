@@ -8,6 +8,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1046-last-stone-weight) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
