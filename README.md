@@ -46,4 +46,16 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
