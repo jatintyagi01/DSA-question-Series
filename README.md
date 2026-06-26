@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
