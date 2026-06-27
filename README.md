@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
