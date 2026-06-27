@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
