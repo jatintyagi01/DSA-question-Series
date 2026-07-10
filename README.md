@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
+| [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1046-last-stone-weight) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
@@ -115,9 +116,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
