@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1046-last-stone-weight) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,4 +112,12 @@
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
