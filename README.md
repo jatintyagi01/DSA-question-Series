@@ -38,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
