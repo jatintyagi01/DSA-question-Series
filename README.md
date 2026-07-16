@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
