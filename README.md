@@ -60,6 +60,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
+| [1518-water-bottles](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1518-water-bottles) |
 ## Brainteaser
 |  |
 | ------- |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
