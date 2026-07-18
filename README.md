@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
@@ -25,10 +26,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
@@ -132,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 ## String
@@ -148,4 +152,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
