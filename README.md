@@ -141,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Simulation
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
