@@ -20,6 +20,7 @@
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1046-last-stone-weight) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Stack
 |  |
 | ------- |
