@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
@@ -37,6 +38,7 @@
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 ## Quickselect
 |  |
@@ -143,6 +145,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
