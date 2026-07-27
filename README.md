@@ -157,6 +157,7 @@
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0796-rotate-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
