@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -158,10 +159,12 @@
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1518-water-bottles) |
 ## Number Theory
 |  |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 ## Queue
 |  |
 | ------- |
