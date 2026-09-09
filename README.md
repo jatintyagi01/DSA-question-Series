@@ -59,6 +59,7 @@
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -174,6 +175,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
