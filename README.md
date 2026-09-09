@@ -70,6 +70,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,6 +163,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
