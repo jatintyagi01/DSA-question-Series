@@ -24,6 +24,7 @@
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/jatintyagi01/DSA-question-Series/tree/master/2239-find-closest-number-to-zero) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jatintyagi01/DSA-question-Series/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
