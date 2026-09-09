@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0876-middle-of-the-linked-list) |
@@ -107,6 +109,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
