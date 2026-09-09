@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
@@ -61,6 +63,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
