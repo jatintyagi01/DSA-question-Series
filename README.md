@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
