@@ -56,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -175,6 +177,7 @@
 | [0020-valid-parentheses](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0392-is-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
