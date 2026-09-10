@@ -167,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
@@ -179,6 +180,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0392-is-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0771-jewels-and-stones](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/jatintyagi01/DSA-question-Series/tree/master/1768-merge-strings-alternately) |
