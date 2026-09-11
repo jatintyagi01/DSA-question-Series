@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0881-boats-to-save-people) |
@@ -164,6 +166,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jatintyagi01/DSA-question-Series/tree/master/0442-find-all-duplicates-in-an-array) |
